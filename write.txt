@@ -1,0 +1,3 @@
+DATA SCIENCE: First we learn python after start ml
+APP Development: WE Learn Reactnative or Flutter
+WEB DEVELOPMENT: WE learn Complete React with backend

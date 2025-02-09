@@ -1,0 +1,10 @@
+{
+    "name": "Sami",
+    "age": 21,
+    "university": "Mehran University",
+    "courses": [
+        "Math",
+        "Physics",
+        "Computer Science"
+    ]
+}
