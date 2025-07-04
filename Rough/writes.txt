@@ -1,0 +1,3 @@
+wordcount: 9 DATA SCIENCE: First we learn python after start ml
+wordcount: 7 APP Development: WE Learn Reactnative or Flutter
+wordcount: 8 WEB DEVELOPMENT: WE learn Complete React with backend

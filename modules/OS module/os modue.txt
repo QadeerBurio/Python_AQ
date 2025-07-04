@@ -1,0 +1,29 @@
+Key Functions in the os Module
+File and Directory Operations
+
+os.getcwd(): Get the current working directory.
+os.chdir(path): Change the current working directory to path.
+os.listdir(path): List all files and directories in the specified path.
+os.mkdir(path): Create a directory named path.
+os.makedirs(path): Create a directory and any necessary intermediate directories.
+os.remove(path): Remove (delete) a file at path.
+os.rmdir(path): Remove (delete) an empty directory at path.
+os.rename(src, dst): Rename a file or directory from src to dst.
+os.path.join(path, *paths): Join one or more path components intelligently.
+Path Operations
+
+os.path.exists(path): Check if a path exists.
+os.path.isfile(path): Check if a path is a file.
+os.path.isdir(path): Check if a path is a directory.
+os.path.abspath(path): Return the absolute path of a path.
+os.path.split(path): Split the path into a pair (head, tail).
+os.path.splitext(path): Split the path into a pair (root, ext).
+Environment Variables
+
+os.getenv(key, default=None): Get the value of an environment variable key. Returns default if the key is not found.
+os.environ: A dictionary-like object representing the environment variables.
+System Information and Process Management
+
+os.system(command): Execute a command in the system shell.
+os.getpid(): Get the current process ID.
+os.getcwd(): Get the current working directory.
